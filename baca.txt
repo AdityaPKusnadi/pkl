@@ -1,0 +1,22 @@
+>admin
+    >master data
+        >input data bidang
+        >input data aspek
+    >daftar pendaftar
+        >download
+        >insert data bidang
+        >lihat data
+    >penilaian
+        >insert data aspek
+
+>user
+    >profile
+        >input data diri
+        >upload foto
+        >upload cv
+        >upload suket
+    >dashboard
+        >lihat data nilai
+        >status divisi mana
+>global
+    >lihat syarat & data amik
